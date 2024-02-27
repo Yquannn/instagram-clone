@@ -1,0 +1,46 @@
+.header{
+  /* margin-left: 30rem;
+  margin-right: 23rem;
+  height: 120px;
+  width: 900px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex: 1;
+  max-width: 1000px; */
+  margin-left: 15rem;
+  margin-right: 22rem;
+  height: 120px;
+
+
+}
+.story-container{
+  height: 100px;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.user-profile img {
+    height: 54px;
+    width: 54px; 
+    border-radius: 50%;
+    border: 3px solid rgba(243, 48, 80, 0.683);
+    padding: 2px;  
+    margin-right: 8px;
+    cursor: pointer;
+}
+.user-profile div{
+  font-size: 12px;
+  display: flex;
+  margin-left:10px;
+}
+
+.header-container{
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  min-width: 700px;
+}
+
